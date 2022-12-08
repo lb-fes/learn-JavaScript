@@ -28,10 +28,18 @@ console.log(obj === undefined); // false
 
 在日常中使用全等操作符几乎总是正确的选择。对于除了数值之外的值，全等操作符使用明确的语义进行比较：一个值只与自身全等。对于数值，全等操作符使用略加修改的语义来处理两个特殊情况：第一个情况是，浮点数 0 是不分正负的。区分 +0 和 -0 在解决一些特定的数学问题时是必要的，但是大部分情况下我们并不用关心。全等操作符认为这两个值是全等的。第二个情况是，浮点数包含了 NaN 值，用来表示某些定义不明确的数学问题的解，例如：正无穷加负无穷。全等操作符认为 NaN 与其他任何值都不全等，包括它自己。（等式 `(x !== x)` 成立的唯一情况是 x 的值为 NaN）
 
+## JavaScript 函数库
 
+### jQuery
+
+[jQuery 是一个轻量级的"写的少，做的多"的 JavaScript 库。](https://www.runoob.com/jquery/jquery-intro.html)
 
 # 开发
 
 类似于 https://www.javascript.com/ `try JavaScript` 的教、练一体？
 
 ![image-20221206175615095](README.assets/image-20221206175615095.png)
+
+# 笔记
+
+https://github.com/qq34347476/web/
