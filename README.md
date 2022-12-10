@@ -49,5 +49,3 @@ console.log(obj === undefined); // false
 # 笔记
 
 https://github.com/qq34347476/web/
-
-test
