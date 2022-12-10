@@ -1,8 +1,14 @@
+# 简介
+
+https://zh.m.wikipedia.org/zh-cn/JavaScript
+
 # 教程
 
 https://github.com/Asabeneh/30-Days-Of-JavaScript
 
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+
+
 
 ## [严格相等 `===`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_sameness#严格相等)
 
