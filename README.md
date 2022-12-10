@@ -4,11 +4,11 @@ https://zh.m.wikipedia.org/zh-cn/JavaScript
 
 # 教程
 
-https://github.com/Asabeneh/30-Days-Of-JavaScript
+环境搭建：https://github.com/Asabeneh/30-Days-Of-JavaScript
 
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
-
+https://zh.javascript.info/（非常详细，但不包括环境搭建）
 
 ## [严格相等 `===`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_sameness#严格相等)
 
