@@ -1,5 +1,3 @@
-// 在 idea 中运行，注意要先保存再运行（有时，自动保存会慢一拍，导致以为自己写错了）
-
 "use strict";
 
 /*写一个函数 pow(x,n)，返回 x 的 n 次方。换句话说，将 x 与自身相乘 n 次，返回最终结果。
@@ -24,7 +22,7 @@ do{
 alert(pow(x, n));
 
 function pow(x, n){
-    let result = 0;
+    let result = x;
 
     for (let i = 1; i < n; i++) {
         result *= x;

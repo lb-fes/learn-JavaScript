@@ -14,8 +14,10 @@
 
 流程图：
 
-![image-20221211145743532](README.assets/image-20221211145743532.png)
+![image-20221211145743532](loginCheck.assets/image-20221211145743532.png)
 
 请使用嵌套的 `if` 块。注意代码整体的可读性。
 
 提示：将空字符串输入，prompt 会获取到一个空字符串 `''`。Prompt 运行过程中，按下 ESC 键会得到 `null`。
+
+loginCheck.js

@@ -1,5 +1,7 @@
 "use strict";
 
+// 登录校验
+
 let userName = prompt("Who is there?", '');
 if(userName == "Admin"){
     let password = prompt("Please input the password:", '');
