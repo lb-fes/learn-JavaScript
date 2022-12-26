@@ -49,3 +49,5 @@ console.log(obj === undefined); // false
 # 笔记
 
 https://github.com/qq34347476/web/
+
+# [What does  in javascript for?](https://stackoverflow.com/questions/55930621/what-does-t-in-javascript-for)
